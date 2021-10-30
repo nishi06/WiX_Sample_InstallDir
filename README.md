@@ -1,0 +1,1 @@
+# WiX_Sample_InstallDir
